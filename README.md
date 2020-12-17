@@ -8,5 +8,6 @@ Please feel free to use these for your own bootcamp event!
 
 ## Workshops
 
+* [Developers Guide to AI](https://workshops.henkboelman.com)
 * [Conversational AI](https://github.com/GlobalAICommunity/Workshop-Conversational-AI)
 * [Custom Computer Vision](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
