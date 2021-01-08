@@ -6,6 +6,9 @@ Please feel free to use these for your own bootcamp event!
 
 * [Global AI Bootcamp 2020 learning challenge](https://aka.ms/gaib-challenge)
 
+## Sessions
+* [All Around Azure: A Developer's Guide to AI](https://github.com/GlobalAICommunity/A-Developers-Guide-to-AI-Content)
+
 ## Workshops
 
 * [Developers Guide to AI](https://workshops.henkboelman.com)
